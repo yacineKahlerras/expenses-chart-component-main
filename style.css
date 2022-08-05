@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+header {
+  background: hsl(33, 100%, 98%);
+  margin-bottom: 0.5rem;
+  border-radius: 20px;
+}
+main {
+  background: hsl(28, 10%, 53%);
+  border-radius: 20px;
+  width: 350px;
+  height: 350px;
+}
