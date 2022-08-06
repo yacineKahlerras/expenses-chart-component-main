@@ -22,6 +22,8 @@ body {
   place-items: center;
   background: var(--pale-cream);
   font-family: "Roboto", sans-serif;
+  transform: scale(1.15);
+  overflow: hidden;
 }
 /* 
 
